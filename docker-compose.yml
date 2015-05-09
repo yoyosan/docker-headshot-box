@@ -1,0 +1,11 @@
+hsbox:
+  build: .
+#  command: /bin/bash
+  command: java -jar hsbox-0.4.0-standalone.jar 4000
+  ports:
+   - "4000:4000"
+  volumes:
+   - hsbox/:/root/hsbox
+   - /home/yoyosan/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/replays/:/root/hsbox/demos
+#  stdin_open: true
+#  tty: true
