@@ -14,16 +14,16 @@ curl -L https://github.com/docker/compose/releases/download/1.2.0/docker-compose
 chmod +x /usr/local/bin/docker-compose
 ```
 
-# Run the container
+# Run the application
 
-First, go to the docker-compose.yml file and replace the directory where your CS GO replays exist(the one that mounts a local directory to /root/hsbox/demos).
+First, you'll need to edit the docker-compose.yml file and replace the directory where your CS GO replays exist(the one that mounts a local directory to /root/hsbox/demos).
+After, run the following command:
 
 ```
 sudo docker-compose up
 ```
 
 Go to http://localhost:4000 to use the application.
-Don't forget to go to Settings and change Demo directory to `/root/hsbox/demos`.
 
 # Change log
 

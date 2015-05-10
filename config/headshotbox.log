@@ -30,3 +30,7 @@
 2015-May-10 18:43:00 +0000 6f29073d1bf2 INFO [hsbox.version] - Checking latest version on https://raw.githubusercontent.com/bugdone/headshotbox/master/latest-linux-version
 2015-May-10 18:43:00 +0000 6f29073d1bf2 DEBUG [hsbox.indexer] - Indexer started
 2015-May-10 18:43:01 +0000 6f29073d1bf2 DEBUG [hsbox.version] - Latest version 0.5.0
+2015-May-10 18:48:19 +0000 27a3f3dc0009 INFO [hsbox.core] - HeadshotBox  0.5.0
+2015-May-10 18:48:19 +0000 27a3f3dc0009 INFO [hsbox.version] - Checking latest version on https://raw.githubusercontent.com/bugdone/headshotbox/master/latest-linux-version
+2015-May-10 18:48:19 +0000 27a3f3dc0009 DEBUG [hsbox.indexer] - Indexer started
+2015-May-10 18:48:20 +0000 27a3f3dc0009 DEBUG [hsbox.version] - Latest version 0.5.0
