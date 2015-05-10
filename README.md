@@ -25,7 +25,16 @@ sudo docker-compose up
 Go to http://localhost:4000 to use the application.
 Don't forget to go to Settings and change Demo directory to `/root/hsbox/demos`.
 
+# Change log
+
+10th may
+* update to use the Linux build
+* get rid of wine and other unuseful packages
+
+9th may
+* first version
+
 # Issues
 
-* Demo parsing isn't working yet. We'll need to wait for the Linux binary.
+* Problem with running the application. I've reported the issue.
 * Watch and Hightlights buttons will not work. Some changes need to be done in the headshot-box project.

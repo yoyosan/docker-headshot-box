@@ -1,0 +1,1 @@
+java -jar hsbox-0.5.0-standalone.jar 4000
