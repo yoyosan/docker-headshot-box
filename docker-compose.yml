@@ -7,5 +7,6 @@ hsbox:
   volumes:
    - hsbox/:/root/hsbox
    - /home/yoyosan/.local/share/Steam/steamapps/common/Counter-Strike Global Offensive/csgo/replays/:/root/hsbox/demos
+   - config/:/root/.config/headshotbox
 #  stdin_open: true
 #  tty: true

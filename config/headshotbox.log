@@ -1,0 +1,28 @@
+2015-May-10 18:36:40 +0000 96822c8d055f INFO [hsbox.core] - HeadshotBox  0.5.0
+2015-May-10 18:36:40 +0000 96822c8d055f INFO [hsbox.version] - Checking latest version on https://raw.githubusercontent.com/bugdone/headshotbox/master/latest-linux-version
+2015-May-10 18:36:40 +0000 96822c8d055f DEBUG [hsbox.indexer] - Indexer started
+2015-May-10 18:36:40 +0000 96822c8d055f DEBUG [hsbox.indexer] - Adding path /root/hsbox/demos/match730_003072359109496930670_0183010677_134.dem
+2015-May-10 18:36:40 +0000 96822c8d055f INFO [hsbox.demo] - Processing /root/hsbox/demos/match730_003072359109496930670_0183010677_134.dem
+2015-May-10 18:36:41 +0000 96822c8d055f DEBUG [hsbox.version] - Latest version 0.5.0
+2015-May-10 18:36:50 +0000 96822c8d055f INFO [hsbox.demo] - Processing #<File /root/hsbox/demos/match730_003072359109496930670_0183010677_134.dem.info>
+2015-May-10 18:36:50 +0000 96822c8d055f DEBUG [hsbox.db] - Adding demo data for match730_003072359109496930670_0183010677_134.dem
+2015-May-10 18:36:50 +0000 96822c8d055f DEBUG [hsbox.indexer] - Adding path /root/hsbox/demos/match730_003073111843317744154_0339363794_131.dem
+2015-May-10 18:36:50 +0000 96822c8d055f INFO [hsbox.demo] - Processing /root/hsbox/demos/match730_003073111843317744154_0339363794_131.dem
+2015-May-10 18:36:59 +0000 96822c8d055f INFO [hsbox.demo] - Processing #<File /root/hsbox/demos/match730_003073111843317744154_0339363794_131.dem.info>
+2015-May-10 18:36:59 +0000 96822c8d055f DEBUG [hsbox.db] - Adding demo data for match730_003073111843317744154_0339363794_131.dem
+2015-May-10 18:36:59 +0000 96822c8d055f DEBUG [hsbox.indexer] - Adding path /root/hsbox/demos/match730_003073446960288497763_0865371383_191.dem
+2015-May-10 18:37:00 +0000 96822c8d055f INFO [hsbox.demo] - Processing /root/hsbox/demos/match730_003073446960288497763_0865371383_191.dem
+2015-May-10 18:37:06 +0000 96822c8d055f INFO [hsbox.demo] - Processing #<File /root/hsbox/demos/match730_003073446960288497763_0865371383_191.dem.info>
+2015-May-10 18:37:06 +0000 96822c8d055f DEBUG [hsbox.db] - Adding demo data for match730_003073446960288497763_0865371383_191.dem
+2015-May-10 18:37:06 +0000 96822c8d055f DEBUG [hsbox.indexer] - Adding path /root/hsbox/demos/match730_003070506778148995208_1216535554_192.dem
+2015-May-10 18:37:06 +0000 96822c8d055f INFO [hsbox.demo] - Processing /root/hsbox/demos/match730_003070506778148995208_1216535554_192.dem
+2015-May-10 18:37:17 +0000 96822c8d055f INFO [hsbox.demo] - Processing #<File /root/hsbox/demos/match730_003070506778148995208_1216535554_192.dem.info>
+2015-May-10 18:37:17 +0000 96822c8d055f DEBUG [hsbox.db] - Adding demo data for match730_003070506778148995208_1216535554_192.dem
+2015-May-10 18:37:18 +0000 96822c8d055f DEBUG [hsbox.indexer] - Adding path /root/hsbox/demos/match730_003072305098135699462_0702500349_134.dem
+2015-May-10 18:37:18 +0000 96822c8d055f INFO [hsbox.demo] - Processing /root/hsbox/demos/match730_003072305098135699462_0702500349_134.dem
+2015-May-10 18:37:32 +0000 96822c8d055f INFO [hsbox.demo] - Processing #<File /root/hsbox/demos/match730_003072305098135699462_0702500349_134.dem.info>
+2015-May-10 18:37:32 +0000 96822c8d055f DEBUG [hsbox.db] - Adding demo data for match730_003072305098135699462_0702500349_134.dem
+2015-May-10 18:37:32 +0000 96822c8d055f DEBUG [hsbox.indexer] - Adding path /root/hsbox/demos/match730_003073442003896238303_2102513557_192.dem
+2015-May-10 18:37:32 +0000 96822c8d055f INFO [hsbox.demo] - Processing /root/hsbox/demos/match730_003073442003896238303_2102513557_192.dem
+2015-May-10 18:37:46 +0000 96822c8d055f INFO [hsbox.demo] - Processing #<File /root/hsbox/demos/match730_003073442003896238303_2102513557_192.dem.info>
+2015-May-10 18:37:46 +0000 96822c8d055f DEBUG [hsbox.db] - Adding demo data for match730_003073442003896238303_2102513557_192.dem

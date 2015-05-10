@@ -27,14 +27,16 @@ Don't forget to go to Settings and change Demo directory to `/root/hsbox/demos`.
 
 # Change log
 
-10th may
+May 10th
 * update to use the Linux build
 * get rid of wine and other unuseful packages
+* update to Oracle Java 8
+* fix issues `demoinfogo` not running due to missing `libc6-i386` package
 
-9th may
+May 9th
 * first version
 
 # Issues
 
-* Problem with running the application. I've reported the issue.
 * Watch and Hightlights buttons will not work. Some changes need to be done in the headshot-box project.
+* Need to test on Windows
