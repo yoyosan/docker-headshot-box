@@ -31,7 +31,7 @@ May 10th
 * update to use the Linux build
 * get rid of wine and other unuseful packages
 * update to Oracle Java 8
-* fix issues `demoinfogo` not running due to missing `libc6-i386` package
+* fix issue with `demoinfogo` not running due to missing `libc6-i386` package
 
 May 9th
 * first version

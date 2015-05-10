@@ -26,3 +26,7 @@
 2015-May-10 18:37:32 +0000 96822c8d055f INFO [hsbox.demo] - Processing /root/hsbox/demos/match730_003073442003896238303_2102513557_192.dem
 2015-May-10 18:37:46 +0000 96822c8d055f INFO [hsbox.demo] - Processing #<File /root/hsbox/demos/match730_003073442003896238303_2102513557_192.dem.info>
 2015-May-10 18:37:46 +0000 96822c8d055f DEBUG [hsbox.db] - Adding demo data for match730_003073442003896238303_2102513557_192.dem
+2015-May-10 18:43:00 +0000 6f29073d1bf2 INFO [hsbox.core] - HeadshotBox  0.5.0
+2015-May-10 18:43:00 +0000 6f29073d1bf2 INFO [hsbox.version] - Checking latest version on https://raw.githubusercontent.com/bugdone/headshotbox/master/latest-linux-version
+2015-May-10 18:43:00 +0000 6f29073d1bf2 DEBUG [hsbox.indexer] - Indexer started
+2015-May-10 18:43:01 +0000 6f29073d1bf2 DEBUG [hsbox.version] - Latest version 0.5.0
